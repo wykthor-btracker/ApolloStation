@@ -474,3 +474,10 @@
 
 	new /obj/item/weapon/kitchenknife/unathiknife(hold)
 	new /obj/item/weapon/kitchenknife/unathiknife(hold)
+
+/obj/item/clothing/tie/silvia_shark_tail
+	name = "fake shark costume"
+	desc = "A very pristine tail clothing which makes the user look like they are a cute shark"
+	icon = 'icons/mob/ties.dmi'
+	icon_state = "sharktail_silvia"
+	item_state = "sharktail_silvia"

@@ -397,3 +397,9 @@
 	min_cold_protection_temperature = T0C - 20
 	cold_protection = UPPER_TORSO|LOWER_TORSO|ARMS
 
+/obj/item/clothing/suit/silvia_shark_tail
+	name = "fake shark costume"
+	desc = "A very pristine tail clothing which makes the user look like they are a cute shark"
+	icon = 'icons/mob/ties.dmi'
+	icon_state = "sharktail_silvia"
+	item_state = "sharktail_silvia"

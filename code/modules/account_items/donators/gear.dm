@@ -142,8 +142,13 @@
 	display_name = "custom Head of Personnel suit"
 	path = /obj/item/clothing/suit/armor/hos/fluff/pygmal
 	sort_category = slot_wear_suit
-	
+
 /datum/gear/account/faustico_mask
 	display_name = "plague doctor mask"
 	path = /obj/item/clothing/mask/gas/fluff/plaguefaustico
 	sort_category = slot_wear_mask
+
+/datum/gear/account/silvia_tail
+	display_name = "Fake shark costume"
+	path = /obj/item/clothing/suit/silvia_shark_tail
+	sort_category = slot_tie
